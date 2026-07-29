@@ -1,0 +1,14 @@
+Rule,Severity,Table,Status,Message
+DQ-01,CRITICAL,companies,PASS,Primary Key is unique.
+DQ-02,WARNING,companies,PASS,Ticker values are unique.
+DQ-03,CRITICAL,companies,PASS,No missing values.
+DQ-04,CRITICAL,profitandloss,PASS,All foreign keys valid
+DQ-04,CRITICAL,balancesheet,PASS,All foreign keys valid
+DQ-04,CRITICAL,cashflow,PASS,All foreign keys valid
+DQ-04,CRITICAL,financial_ratios,PASS,All foreign keys valid
+DQ-04,CRITICAL,stock_prices,PASS,All foreign keys valid
+DQ-04,CRITICAL,analysis,PASS,All foreign keys valid
+DQ-05,CRITICAL,balancesheet,PASS,Balance sheet equation satisfied.
+DQ-06,CRITICAL,profitandloss,PASS,All sales values are positive.
+DQ-07,CRITICAL,profitandloss,PASS,No duplicate company-year records.
+DQ-08,CRITICAL,stock_prices,PASS,All stock prices are positive.

@@ -1,0 +1,13 @@
+table_name,rows_loaded,status,load_time
+companies,5,SUCCESS,2026-07-28 15:09:15
+profitandloss,5,SUCCESS,2026-07-28 15:09:15
+balancesheet,5,SUCCESS,2026-07-28 15:09:15
+cashflow,5,SUCCESS,2026-07-28 15:09:15
+companies,5,SUCCESS,2026-07-28 15:09:15
+profitandloss,5,SUCCESS,2026-07-28 15:09:15
+balancesheet,5,SUCCESS,2026-07-28 15:09:15
+cashflow,5,SUCCESS,2026-07-28 15:09:15
+financial_ratios,5,SUCCESS,2026-07-28 15:09:15
+stock_prices,5,SUCCESS,2026-07-28 15:09:15
+sectors,4,SUCCESS,2026-07-28 15:09:15
+analysis,5,SUCCESS,2026-07-28 15:09:15

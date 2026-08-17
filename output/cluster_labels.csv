@@ -1,0 +1,6 @@
+company_id,company_name,cluster_id,cluster_name,distance_from_centroid
+1,Tata Consultancy Services,2,Value Picks,0.0
+2,Infosys,0,High Quality,0.0
+3,Reliance Industries,4,Emerging Players,0.0
+4,HDFC Bank,1,Growth Leaders,2.9802322387695312e-08
+5,ITC Limited,3,Cash Generators,0.0
